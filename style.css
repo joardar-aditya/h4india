@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+body{
+    background-color: black;
+}
+
+
+.empashasys{
+     font-size: 2em;
+     font-family: monospace;
+     color: aliceblue;
+}
+
+
+.main-heading{
+    font-family: 'Righteous', cursive;
+    font-size: 8em;
+    color: aliceblue;
+    text-align: center;
+}
+
+.answer-d{
+    color: azure;
+}
+
+.sub-heading {
+     font-size: 2em;
+     text-align: center;
+}
+
+.faq-heading{
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.other-headings{
+    color: aliceblue;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: 3em;
+    text-align: center;
+}
